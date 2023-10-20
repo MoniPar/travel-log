@@ -2,19 +2,15 @@
 import travelLogo from './assets/world100.png'
 import './App.css'
 
+import Navbar from './components/Navbar';
+import Card from './components/Card';
+
 function App() {
   return (
     <>
-      <nav>
-        <a href="#">
-          <img src={travelLogo} className="logo" alt="Planet Earth Spinning" />
-        </a>
-        <h1>My Travel Log</h1>
-      </nav>
+      <Navbar />
       <main>
-        <div className="card">
-      
-        </div>
+        <Card />
       </main>
     </>
   )

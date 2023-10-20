@@ -1,20 +1,41 @@
-#root {
-  max-width: 1280px;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: Roboto, sans-serif;
+  background-color: #e6cabb;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  height: 10rem;
+  background-color: #7c613b;
   margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
 }
 
 .logo {
-  height: 6em;
-  padding: 1.5em;
+  height: 6rem;
+  width: 6rem;
   will-change: filter;
   transition: filter 300ms;
 }
-.logo:hover {
+/* .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
-}
-
+} */
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -22,6 +43,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1 {
+  width: 14rem;
+  font-family: 'Sigmar One', sans-serif;
+  font-size: 3em;
+  text-align: center;
+  line-height: .75;
+  color: #EFF1EE;
 }
 
 @media (prefers-reduced-motion: no-preference) {
