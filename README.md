@@ -35,6 +35,8 @@ ____
 
 - [Pexels](https://www.pexels.com/)
 - [Unsplash](https://unsplash.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome Icons](https://fontawesome.com/)
 - [Favicon Generator](https://www.favicongenerator.com/)
 
 
@@ -49,5 +51,7 @@ ____
 
 - Innsbruck, Austria - [Photo by Bryan Dijkhuizen](https://www.pexels.com/photo/man-and-woman-walking-down-the-maria-theresien-street-in-innsbruck-austria-12067620/)
 
+- Card trip descriptions taken from [Lonely Planet](https://www.lonelyplanet.com)
 
+- Color Palette - [iColorpalette](https://icolorpalette.com/imagepalette/color-palette-ideas-from-girl-walking-tourism-image)
 ____

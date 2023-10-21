@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "stephans-cathedral.png",
+        "alt": "St. Stephen's Cathedral",
+        "country": "Austria",
+        "maps": "https://maps.app.goo.gl/BezYHj4WdF8fpjBi6",
+        "city": "Vienna",
+        "dates": "2nd - 5th August 2023",
+        "description": "Baroque street-scapes and imperial palaces set the stage for Vienna's artistic and musical masterpieces alongside its coffee-house culture and vibrant epicurean and design scenes."
+    },
+    {
+        "id": 2,
+        "img": "innsbruck.jpg",
+        "alt": "Street in Innsbruck with the alps in the background",
+        "country": "Austria",
+        "maps": "https://maps.app.goo.gl/stCRAXMChjZXbcpW9",
+        "city": "Innsbruck",
+        "dates": "5th - 8th August 2023",
+        "description": "Tyrol’s capital is a sight to behold. The jagged rock spires of the Nordkette range are so close that within minutes it’s possible to travel from the city's heart to more than 2000m above sea level and alpine pastures where cowbells chime."
+    },
+    {
+        "id": 3,
+        "img": "salzburg-castle.jpg",
+        "alt": "Salzburg Castle overlooking the city",
+        "country": "Austria",
+        "maps": "https://maps.app.goo.gl/BR8z43zFv947d3jC6",
+        "city": "Salzburg",
+        "dates": "8th - 12th August 2023",
+        "description": "The joke 'If it ain't baroque, don't fix it' is a perfect maxim for Salzburg: the story-book Altstadt (old town) burrowed below steep hills looks much as it did when Mozart lived here 250 years ago. Beside the fast-flowing Salzach River, your gaze is raised inch by inch to graceful domes and spires, the formidable clifftop fortress and the mountains beyond."
+    }
+]
