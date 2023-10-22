@@ -1,6 +1,34 @@
-# React + Vite
+# Travel Log
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Travel Log was created to practice React.js. Data is fetched from a static dataset which generates the dynamic logs using the `.map()` method and props.  The page is fully responsive and compatible with all major browsers.
+
+<details>
+<summary>Click to view screenshot for Mobile</summary>
+
+![min-width: 320px](docs/mobile.png)
+
+</details>
+<br>
+<details>
+<summary>Click to view screenshot for Tablet</summary>
+
+![min-width: 768px](docs/tablet.png)
+
+</details>
+<br>
+<details>
+
+<summary>Click to view screenshot for Desktop</summary>
+
+![min-width: 1440px](docs/desktop.png)
+
+</details>
+
+_____
+
+## React + Vite
+
+This project was created using React and Vite's minimal setup.
 
 Currently, two official plugins are available:
 
@@ -50,8 +78,6 @@ ____
 - Festung Hohensalzburg, Salzburg - [Photo by Free Walking Tour Salzburg](https://unsplash.com/@freewalkingtoursalzburg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 - Innsbruck, Austria - [Photo by Bryan Dijkhuizen](https://www.pexels.com/photo/man-and-woman-walking-down-the-maria-theresien-street-in-innsbruck-austria-12067620/)
-
-- Card trip descriptions taken from [Lonely Planet](https://www.lonelyplanet.com)
 
 - Color Palette - [iColorpalette](https://icolorpalette.com/imagepalette/color-palette-ideas-from-girl-walking-tourism-image)
 ____

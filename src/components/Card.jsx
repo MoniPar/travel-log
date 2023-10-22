@@ -8,10 +8,10 @@ const Card = ({trip}) => {
             <div className="card--content">
                 <div className="card--header">
                     <div className="location">
-                        <i className="fa-solid fa-location-dot"></i>
+                        <i className="fa-solid fa-location-dot" aria-hidden="true"></i>
                         <h2>{trip.country}</h2>
                     </div>
-                    <a href={trip.maps} target="_blank">View on Google Maps</a>
+                    <a href={trip.maps} target="_blank" aria-label="Opens location in Google maps in a new tab">View on Google Maps</a>
                 </div>
                 <h3>{trip.city}</h3>
                 <h4>{trip.dates}</h4>
